@@ -4,7 +4,7 @@
     Created: 02/02/2016
     Last Updated: 02/02/2016
     Version: 1.0
-    Author: royprashenjeet25@gmail.com
+    Author: https://github.com/prashen
     Options:
         - dropdownWidth
         - dropdownTopAuto
