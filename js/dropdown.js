@@ -2,7 +2,6 @@
     Plugin Name: Dropdown.js
     Description Tags: dropdown.js | custom class | full-width/normal/dynamic-top | body click dropdown content hide
     Created: 02/02/2016
-    Last Updated: 02/02/2016
     Version: 1.0
     Author: https://github.com/prashen
     Options:
