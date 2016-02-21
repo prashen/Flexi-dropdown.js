@@ -1,4 +1,4 @@
-#Flexi-dropdown.js - v.0.1 (Beta)
+#Flexi-dropdown.js - v0.1 (Beta)
 
 ##Hello Everyone! 
 
